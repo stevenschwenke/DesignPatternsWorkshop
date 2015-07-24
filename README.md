@@ -19,5 +19,10 @@ For each pattern
 - the implementation shown
 - and the usage in specific situations discussed. 
 
-To practice the patterns, we will enhance a given code base step by step using the patterns.
+To practice the patterns, we will enhance a given code base step by step using the patterns. (Steven: building a city of different house types as a scenario?)
 
+todo: Migration strategies to implement patterns in legacy code?
+
+Meta
+-----
+The participants should have a basic knowledge of Java. Experience in software development projects is a nice to have but not necessary.
